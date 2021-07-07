@@ -4,3 +4,5 @@ tortillas
 cheese
 red peppers
 hot sauce
+tomato juice
+celery
