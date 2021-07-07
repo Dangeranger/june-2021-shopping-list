@@ -1,3 +1,5 @@
 eggs
 ketchup
+cheese
+red peppers
 hot sauce
