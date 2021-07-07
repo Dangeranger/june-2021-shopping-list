@@ -1,4 +1,6 @@
 eggs
 ketchup
 tortillas
+cheese
+red peppers
 hot sauce
